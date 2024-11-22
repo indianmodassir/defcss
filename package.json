@@ -1,0 +1,47 @@
+{
+  "name": "defcss",
+  "description": "A front-end CSS library for developing auto format, client side  on the web page.",
+  "version": "2.0.1",
+  "config": {
+    "version_short": "2.0"
+  },
+  "keywords": [
+    "defcss",
+    "css",
+    "sass",
+    "auto-format",
+    "front-end",
+    "library",
+    "web"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/shahzadamodassir/defcss",
+  "author": "The defcss Authors (https://github.com/shahzadamodassir/defcss/graphs/contributors)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahzadamodassir/defcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shahzadamodassir/defcss/issues"
+  },
+  "funding": [
+    {
+      "type": "Github",
+      "url": "https://github.com/shahzadamodassir"
+    },
+    {
+      "type": "Patreon",
+      "url": "https://patreon.com/shahzadamodassir"
+    },
+    {
+      "type": "Opencollective",
+      "url": "https://opencollective.com/shahzadamodassir"
+    }
+  ],
+  "sass": "scss/defcss.scss",
+  "style": "dist/defcss.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
